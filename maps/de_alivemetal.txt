@@ -1,0 +1,13 @@
+Alivemetal - Bomb-Defuse
+
+Designed By Tom Clark (D7)
+d7@@@rocketmail.com - take out the 2 extra @s
+http://www.dEmension7.com/CSSMaps/
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the Saloon and Bank.
+
+Terrorists: The Terrorist carrying the
+C4 must place the bomb at one of the two
+bomb sites around the map, thereby 
+destroying the Saloon or Bank.
